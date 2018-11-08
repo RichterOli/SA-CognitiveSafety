@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognitiveSafety", "..\..\source\repos\CognitiveSafety\CognitiveSafety\CognitiveSafety.csproj", "{5D56FD4B-1174-41F9-93F9-AC56896429CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognitiveSafety", "..\..\..\source\repos\CognitiveSafety\CognitiveSafety\CognitiveSafety.csproj", "{5D56FD4B-1174-41F9-93F9-AC56896429CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyPerformanceTests", "..\CognitiveSafety\Visual Studio Code\SafetyPerformanceTests\SafetyPerformanceTests.csproj", "{402903D6-F83C-462F-906E-BB8BDC2D43E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyPerformanceTests", "SafetyPerformanceTests\SafetyPerformanceTests.csproj", "{402903D6-F83C-462F-906E-BB8BDC2D43E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
